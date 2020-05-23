@@ -2,10 +2,19 @@ header img {
   width: 100%;
 }
 .greeting {
-  font-size: auto;
   font-weight: bold;
   background-color: silver;
   color: firebrick;
   width: 70%;
   margin: 0 auto;
+}
+.pics {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90%;
+  margin: 0 auto;
+}
+.pics img {
+  max-height: 20vw;
 }
