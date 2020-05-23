@@ -12,9 +12,9 @@ header img {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 90%;
+  width: 70%;
   margin: 0 auto;
 }
 .pics img {
-  max-height: 30vw;
+  max-height: 20vw;
 }
