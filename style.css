@@ -1,8 +1,11 @@
+header img {
+  width: 100%;
+}
 .greeting {
-  font-size: 72px;
+  font-size: auto;
   font-weight: bold;
   background-color: silver;
   color: firebrick;
-  width: 880px;
+  width: 70%;
   margin: 0 auto;
 }
