@@ -1,6 +1,8 @@
 .greeting {
   font-size: 72px;
   font-weight: bold;
+  background-color: coral;
+  color: limegreen;
   width: 1000px;
   margin: 0 auto;
 }
