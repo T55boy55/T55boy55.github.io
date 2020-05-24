@@ -14,12 +14,12 @@ header img {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  width: 70%;
+  width: 80%;
   margin: 0 auto;
 }
 #second {
   margin-top: 20px;
 }
 .pics img {
-  max-height: 20vw;
+  max-height: 30vw;
 }
